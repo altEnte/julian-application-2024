@@ -10,7 +10,7 @@ const ApplicationLetter : React.FC = () => {
                 In my current position I am missing creativity & new challenges and I am willing to put time and effort into building the necessary skills to be part of a sustainable idea that makes me feel more valueable to the well-being of our planet.<br />
                 I am practised in team-based agile projects, contributed to frontend development with React, CSS, TypeScript and prototyped a new application interface with Figma. My personal goal is it to learn a lot more about great UX and I am exited to take my chances with a good cause like Goodbag.<br />
                 <br />
-                Inspiring greetings,<br />
+                Inspired greetings,<br />
                 Julian Kroll<br />
                 <br />
                 <br />
