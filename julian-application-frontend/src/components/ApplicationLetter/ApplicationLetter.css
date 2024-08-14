@@ -1,0 +1,10 @@
+.letter {
+    text-align: justify;
+    margin: auto;
+}
+
+.gradient-line {
+    height: 5px;
+    background: linear-gradient(to right, #F56407, #f7bd3d);
+    border: none;
+}
